@@ -26,9 +26,9 @@ body {
 }
 
 main {
-    width: 90%;
+    width: 85%;
     max-width: 360px;
-    height: auto;
+    height: 75%;
     max-height: 700px;
     border-radius: 0.625rem;
     display: flex;
@@ -58,6 +58,7 @@ h2 {
 p {
     margin: 0.5rem 0rem 1rem;
     color: lightgrey;
+    padding: 0rem 1rem;
 }
 
 .socialLinks {
