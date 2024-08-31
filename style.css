@@ -84,15 +84,15 @@ p {
     border: none;
     border-radius: 0.375rem;
     background-color: var(--grey700);
-    color: lightgray;
     font-weight: 700;
     font-style: normal;
+    color: lightgray;
 }
 
 .socialButtons:hover {
     background-color: var(--green);
-    color: black;
     cursor: pointer;
+    color: black;
 }
 
 footer {
