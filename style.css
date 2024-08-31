@@ -29,7 +29,7 @@ body {
 
 main {
     width: 80%;
-    max-width: 360px;
+    max-width: 375px;
     height: fit-content;
     max-height: 700px;
     border-radius: 0.625rem;
@@ -74,6 +74,7 @@ p {
     display: flex;
     flex-direction: column;
     width: 90%;
+    max-width: 320px;
     margin: 0rem 0rem 1rem;
 }
 
